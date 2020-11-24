@@ -6,6 +6,12 @@ Majority of the code uses python and jupyter notebooks (hosted on colab). Google
 # Title
 Multiscale Modelling of CuAgAu surface segregation for propylene epoxidation
 
+# Graphical Abstract
+
+
+![Multiscale Modelling](https://github.com/gautamankitkumar/ankitgau-ms-report-data/blob/main/data/graphical-abstract.png)
+
+
 # Abstract
 
 Multicomponent alloys very often exhibit superior properties than their constituent individual metals. For an industrially relevant reaction such as propylene epoxidation, an appropriate catalyst can greatly enhance the selectivity and conversion of the process. For example, Ag based catalysts show excellent activity but alloying Ag with Cu or Au exhibit increased selectivity and conversion. We postulate that there exists an alloy of composition CuAgAu which possess desired target property or some combination of those properties. In the pursuit of finding this optimum composition, one needs to be aware of effects of the phenomenon of surface segregation which states that the surface composition of a multicomponent alloy often differs from its bulk composition. This deviation depends on bulk concentrations, temperature, pressure and adsorbates present on surface. This study is focussed on understanding the extent of surface segregation on all possible compositions in CuAgAu ternary system. Fast computational methods allow us to accurately predict the changes due to surface segregation for any given bulk composition. In this work, surface segregation is modelled via Monte Carlo simulations in canonical ensemble. To evaluate energies of intermediate configurations arising during Monte Carlo simulations, a machine learning model is trained on first principles Density Functional Theory (DFT) energies. Combination of these computational tools lets us predict the deviation of surface composition from bulk composition of a multicomponent alloy.

@@ -27,4 +27,10 @@ The project is structured as follows:
 - [Plotting histogram for near-surface atomic swaps with energy of swap](https://github.com/gautamankitkumar/ankitgau-ms-report-data/blob/main/notebooks/swap-histogram.ipynb)
 - [Validating neural network performance on surface relaxed structures](https://github.com/gautamankitkumar/ankitgau-ms-report-data/blob/main/notebooks/surface-relax.ipynb)
 - Evaluating surface segregation trend for FCC211 surface
+- [Analytical Solution](https://github.com/gautamankitkumar/ankitgau-ms-report-data/blob/main/notebooks/analytical-solution.ipynb)
 
+
+## TODO
+- Include kpts and encut convergence
+- Include conclusion in the report
+- Verify all notebooks contain an executed output

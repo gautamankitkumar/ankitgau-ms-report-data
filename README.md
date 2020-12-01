@@ -13,7 +13,7 @@ Multiscale Modelling of CuAgAu surface segregation for propylene epoxidation
 
 ![Multiscale Modelling](https://github.com/gautamankitkumar/ankitgau-ms-report-data/blob/main/data/graphical-abstract.png)
 
-Credits to [![Twitter Follow](https://img.shields.io/twitter/follow/Gautam_K_Ankit.svg?style=social)](https://twitter.com/RailkarRucha)	
+Credits to [![Twitter Follow](https://img.shields.io/twitter/follow/RailkarRucha.svg?style=social)](https://twitter.com/RailkarRucha)
 
 # Abstract
 

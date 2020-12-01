@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.com/gautamankitkumar/ankitgau-ms-report-data.svg)](http://hits.dwyl.com/gautamankitkumar/ankitgau-ms-report-data) [![PyPi Python Versions](https://img.shields.io/pypi/pyversions/yt2mp3.svg)](https://pypi.python.org/pypi/yt2mp3/) [![Twitter Follow](https://img.shields.io/twitter/follow/Gautam_K_Ankit.svg?style=social)](https://twitter.com/Gautam_K_Ankit)
+
 # About
 This repo is intended to hold the data and the code required to reproduce the entire project.
 
@@ -11,6 +13,7 @@ Multiscale Modelling of CuAgAu surface segregation for propylene epoxidation
 
 ![Multiscale Modelling](https://github.com/gautamankitkumar/ankitgau-ms-report-data/blob/main/data/graphical-abstract.png)
 
+Credits to [![Twitter Follow](https://img.shields.io/twitter/follow/Gautam_K_Ankit.svg?style=social)](https://twitter.com/RailkarRucha)	
 
 # Abstract
 

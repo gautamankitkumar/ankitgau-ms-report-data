@@ -22,6 +22,7 @@ Multicomponent alloys very often exhibit superior properties than their constitu
 # Overview of this repository
 The project is structured as follows:
 
+- [Bulk lattice constant calculation](https://github.com/gautamankitkumar/ankitgau-ms-report-data/blob/main/notebooks/bulk-lattice.ipynb)
 - [DFT training data generation](https://github.com/gautamankitkumar/ankitgau-ms-report-data/blob/main/notebooks/generate-DFT-configs.ipynb)
 - [Behler-Parinello Neural Network training](https://github.com/gautamankitkumar/ankitgau-ms-report-data/blob/main/notebooks/train-BPNN.ipynb)
 - [Monte Carlo simulations](https://github.com/gautamankitkumar/ankitgau-ms-report-data/blob/main/notebooks/run-mc-simulation.ipynb)
@@ -34,6 +35,5 @@ The project is structured as follows:
 
 
 ## TODO
-- Include kpts and encut convergence
-- Include conclusion in the report
+- Include kpts convergence
 - Verify all notebooks contain an executed output

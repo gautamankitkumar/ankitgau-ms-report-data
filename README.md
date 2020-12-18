@@ -5,6 +5,8 @@ This repo is intended to hold the data and the code required to reproduce the en
 
 Majority of the code uses python and jupyter notebooks (hosted on colab). Google colab provides an easy medium for code hosting, convenience and reproducibility.
 
+You can find the PDF version of the report [here](https://github.com/gautamankitkumar/ankitgau-ms-report-data/blob/main/Gautam_AnkitKumar_F20.pdf)
+
 # Title
 Multiscale Modelling of CuAgAu surface segregation for propylene epoxidation
 
